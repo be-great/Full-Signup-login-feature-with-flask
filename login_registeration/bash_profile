@@ -1,0 +1,6 @@
+export SQLALCHEMY_DATABASE_URI='sqlite:////home/user/path_for_db'
+export SECRET_KEY="your_secret_key"
+export MAIL_USERNAME="from@gmail.com"
+export MAIL_PASSWORD='wmail_password'
+export registerationSecureKey="anothersecurekeyforregistation"
+export loginSecureKey="anothersecurekeyforlogin"
