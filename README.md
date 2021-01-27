@@ -1,7 +1,7 @@
 # Full-Signup-login-feature-with-flask
 Full Signup login feature with flask
 Reqirument :
-flask 
+  python3-flask , python3-flask-sqlalchemy , python3-flask-login , python3-flask-mail
  
 * Edit bash_profile :
     SQLALCHEMY_DATABASE_URI ≡ Path of DB ,
